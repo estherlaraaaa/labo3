@@ -51,3 +51,31 @@ h1{
 nav{
     color: rgb(47, 37, 133);
 }
+
+
+/*PARA PONER EL BOTON DE VOLVER A LA PAGINA PRINCIPAL*/
+
+#HomeBtn:link{
+    position: fixed;
+    bottom: 1.2em;
+    right: 1.2em;
+    z-index: 100;
+    padding: 15px;
+    background: #297fb91a;
+    color: #2c3e50;
+    border: 2px solid #2c3e50;
+    border-radius: 10px;
+}
+
+#HomeBtn:visited{
+    background: #297fb91a;
+    color: #2c3e50;
+    border: 2px solid #2c3e50;
+}
+
+#HomeBtn:hover{
+    background: #2c3e50;
+    text-decoration: none;
+    color: white;
+    border: 2px solid #2c3e50;
+}
