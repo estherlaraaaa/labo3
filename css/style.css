@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: rgba(2, 20, 59, 0.904);
+    text-decoration-line: underline;
+    margin-top: 2em;
+}
+
+    div.img2 {
+        margin: 10px;
+        margin-left: 7em;
+        margin-top: 3em;
+        border: 1px solid rgb(199, 199, 199);
+        float: left;
+        width: 300px;
+        }
+            
+    div.img2:hover {
+        border: 1px solid rgb(247, 3, 3);
+        border: 1px solid rgb(247, 3, 3);
+        }
+            
+    div.img2 img2 {
+        width: 100%;
+        height: auto;
+        }
+
+        div.desc {
+            padding: 15px;
+            text-align: center;
+            color: rgba(2, 20, 59, 0.904);
+            }
