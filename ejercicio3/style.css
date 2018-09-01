@@ -1,0 +1,152 @@
+.button {
+    border: none;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color:#f4f3f2; 
+    border-radius: 6px;
+    border: 1px solid #f4f3f2 
+}
+
+/*TAMAÑO*/
+.normal{
+    font-size: 2em;   
+}
+.grande{
+    font-size: 3em;   
+}
+.pequeño{
+    font-size: 1em;
+}
+
+/*COLORES*/
+.verde{
+    background-color: #57d68d;
+    border: 2px solid #57d68d; 
+    padding: 1em;
+    border-radius: 6px;
+    color: white;
+}
+.rojo{
+    background-color:#5cace2;
+    border: 2px solid #5cace2; 
+    padding: 1em;
+    border-radius: 6px;
+    color: white;
+}
+.amarillo{
+    background-color: #ae7ac4;
+    border: 2px solid #ae7ac4; 
+    padding: 1em;
+    border-radius: 6px;
+    color: white;
+}
+.azul{
+    background-color: #5c6d7e;
+    border: 2px solid #5c6d7e; 
+    padding: 1em;
+    border-radius: 6px;
+    color: white;
+}
+.rosado{
+    background-color: #ea974e;
+    border: 2px solid #ea974e; 
+    padding: 1em;
+    border-radius: 6px;
+    color: white;
+}
+.negro{
+    background-color: #eb6f62;
+    border: 2px solid #eb6f62; 
+    padding: 1em;
+    border-radius: 6px;
+    color: white;
+}
+
+/*BORDEADO*/
+.a{
+    border: 2px solid rgb(151, 163, 151); 
+    padding: 1em;
+    border-radius: 6px;
+    color: rgb(151, 163, 151);
+    background-color: white;
+}
+.b{
+    border: 2px solid #57d68d; 
+    padding: 1em;
+    border-radius: 6px;
+    color: #57d68d;
+    background-color: white;
+}
+.c{
+    border: 2px solid #5cace2; 
+    padding: 1em;
+    border-radius: 6px;
+    color: #5cace2;
+    background-color: white;
+}
+.d{
+    border: 2px solid #ae7ac4; 
+    padding: 1em;
+    border-radius: 6px;
+    color: #ae7ac4;
+    background-color: white;
+}
+.e{
+    border: 2px solid #5c6d7e; 
+    padding: 1em;
+    border-radius: 6px;
+    color: #5c6d7e;
+    background-color: white;
+}
+.f{
+    border: 2px solid #ea974e; 
+    padding: 1em;
+    border-radius: 6px;
+    color: #ea974e;
+    background-color: white;
+}
+.g{
+    border: 2px solid #eb6f62; 
+    padding: 1em;
+    border-radius: 6px;
+    color: #eb6f62;
+    background-color: white;
+}
+
+/*COMBINADO*/
+.ja{
+    background-color: #5c6d7e;
+    border: 2px solid #5c6d7e; 
+    padding: 1em;
+    border-radius: 6px;
+    color: white;
+}
+.je{
+    border: 2px solid #5cace2; 
+    padding: 1em;
+    border-radius: 6px;
+    color: #5cace2;
+    background-color: white;
+    font-size: 0.7em;
+}
+.ji{
+    background-color: #57d68d;
+    border: 2px solid #57d68d; 
+    padding: 1em;
+    border-radius: 6px;
+    color: white;
+    font-size: 0.4em;
+}
+.jo{
+    border: 2px solid #eb6f62; 
+    padding: 1em;
+    border-radius: 6px;
+    color: #eb6f62;
+    background-color: white;
+    font-size: 1em;
+}
